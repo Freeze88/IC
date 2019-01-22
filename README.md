@@ -21,7 +21,7 @@ Uma vez que não é possível de enviar um duplo array para uma função vários
 
 Manual___________________________________________
 
-Para compilar o programa basta utilizar o ficheiro Makefile criado ou utilizar a combinação de comandos do GCC no programa "program.c".
+Para compilar o programa basta utilizar o ficheiro Makefile escrevendo "make" no terminal ou utilizar a combinação de comandos do GCC no programa "program.c".
 
 
 _Regras_
